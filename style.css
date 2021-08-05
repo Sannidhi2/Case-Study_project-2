@@ -1,0 +1,15 @@
+.img-responsive{
+    height:350px;
+    width:350px;
+    margin-left:480px;
+    margin-top:10px;
+}
+b{
+    color:crimson;
+}
+body{
+    text-align:center;
+    background-color:lightpink;
+    font-family: 'Pacifico', cursive;
+    font-size:30px;
+}
